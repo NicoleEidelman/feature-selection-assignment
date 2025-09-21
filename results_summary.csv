@@ -1,0 +1,4 @@
+Setting,Test Accuracy,Num Features
+Baseline (All),0.9824561403508771,30
+Filter-ANOVA (k=10),0.9473684210526315,10
+Embedded-RF (top-10),0.9473684210526315,10
