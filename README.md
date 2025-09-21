@@ -14,8 +14,6 @@ Course: Machine Learning
      .\.venv\Scripts\activate   # Windows
      pip install -r requirements.txt
 
-
-
-
 4. Run the script:
+   ```bash
    python feature_selection_breast_cancer.py
